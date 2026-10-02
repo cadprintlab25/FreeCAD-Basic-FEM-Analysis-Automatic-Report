@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="210mm" height="297mm" viewBox="0 0 794 1123">
+<rect x="0" y="0" width="794" height="1123" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" rx="0"/>
+<rect x="18" y="18" width="758" height="1087" fill="#FFFFFF" stroke="#222222" stroke-width="2" rx="0"/>
+<text x="35" y="45" font-family="DejaVu Sans, Arial, sans-serif" font-size="11.40px" font-weight="700" text-anchor="start" fill="#1A2733">TECHNICAL REPORT – FEM ANALYSIS</text>
+<text x="35" y="64" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.23px" font-weight="400" text-anchor="start" fill="#64717B">CalculiX / CCX Result – automated post-processing</text>
+<text x="760" y="41" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="end" fill="#1A2733">YOUR COMPANY</text>
+<text x="760" y="57" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.78px" font-weight="400" text-anchor="end" fill="#1A2733">Project: FEMExample</text>
+<text x="760" y="72" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.78px" font-weight="400" text-anchor="end" fill="#1A2733">Author: User2</text>
+<line x1="30" y1="84" x2="764" y2="84" stroke="#123D68" stroke-width="2"/>
+<rect x="30" y="95" width="734" height="39" fill="#EAF2F8" stroke="#1F67A5" stroke-width="1" rx="4"/>
+<text x="42" y="111" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.47px" font-weight="700" text-anchor="start" fill="#64717B">SELECTED CCX RESULT</text>
+<text x="42" y="128" font-family="DejaVu Sans, Arial, sans-serif" font-size="9.12px" font-weight="700" text-anchor="start" fill="#123D68">CCX_Results003</text>
+<text x="752" y="120" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.17px" font-weight="400" text-anchor="end" fill="#64717B">Fem::FemResultObjectPython</text>
+<rect x="30" y="147" width="355" height="25" fill="#123D68" stroke="#123D68" stroke-width="1" rx="0"/>
+<text x="40" y="165" font-family="DejaVu Sans, Arial, sans-serif" font-size="8.36px" font-weight="700" text-anchor="start" fill="#FFFFFF">1. MODEL OVERVIEW</text>
+<rect x="30" y="172" width="355" height="110" fill="#FFFFFF" stroke="#A9BBC8" stroke-width="1" rx="0"/>
+<line x1="200.4" y1="172" x2="200.4" y2="282" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="188" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Project</text>
+<text x="207.4" y="188" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">FEMExample</text>
+<line x1="30" y1="194" x2="385" y2="194" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="210" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Document</text>
+<text x="207.4" y="210" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">C:/Users/User2/Desktop/FEMExample.FCStd</text>
+<line x1="30" y1="216" x2="385" y2="216" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="232" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Analysis</text>
+<text x="207.4" y="232" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">Analysis</text>
+<line x1="30" y1="238" x2="385" y2="238" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="254" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">CCX Result</text>
+<text x="207.4" y="254" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">CCX_Results003</text>
+<line x1="30" y1="260" x2="385" y2="260" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="276" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">PostPipeline</text>
+<text x="207.4" y="276" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">Pipeline_CCX_Results</text>
+<rect x="405" y="147" width="359" height="25" fill="#123D68" stroke="#123D68" stroke-width="1" rx="0"/>
+<text x="415" y="165" font-family="DejaVu Sans, Arial, sans-serif" font-size="8.36px" font-weight="700" text-anchor="start" fill="#FFFFFF">2. MATERIAL PROPERTIES</text>
+<rect x="405" y="172" width="359" height="110" fill="#FFFFFF" stroke="#A9BBC8" stroke-width="1" rx="0"/>
+<line x1="577.3199999999999" y1="172" x2="577.3199999999999" y2="282" stroke="#A9BBC8" stroke-width="1"/>
+<text x="412" y="188" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Material</text>
+<text x="584.3199999999999" y="188" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">CalculiX-Steel</text>
+<line x1="405" y1="194" x2="764" y2="194" stroke="#A9BBC8" stroke-width="1"/>
+<text x="412" y="210" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Young's modulus E</text>
+<text x="584.3199999999999" y="210" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">210000.0 MPa</text>
+<line x1="405" y1="216" x2="764" y2="216" stroke="#A9BBC8" stroke-width="1"/>
+<text x="412" y="232" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Poisson's ratio ν</text>
+<text x="584.3199999999999" y="232" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">0.300</text>
+<line x1="405" y1="238" x2="764" y2="238" stroke="#A9BBC8" stroke-width="1"/>
+<text x="412" y="254" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Density ρ</text>
+<text x="584.3199999999999" y="254" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">7900 kg/m³</text>
+<line x1="405" y1="260" x2="764" y2="260" stroke="#A9BBC8" stroke-width="1"/>
+<text x="412" y="276" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Yield strength Re</text>
+<text x="584.3199999999999" y="276" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">not available</text>
+<rect x="30" y="303" width="355" height="25" fill="#123D68" stroke="#123D68" stroke-width="1" rx="0"/>
+<text x="40" y="321" font-family="DejaVu Sans, Arial, sans-serif" font-size="8.36px" font-weight="700" text-anchor="start" fill="#FFFFFF">3. FEM MESH PARAMETERS</text>
+<rect x="30" y="328" width="355" height="105" fill="#FFFFFF" stroke="#A9BBC8" stroke-width="1" rx="0"/>
+<line x1="207.5" y1="328" x2="207.5" y2="433" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="344" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Number of nodes (FEM / result)</text>
+<text x="214.5" y="344" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">569 / 569</text>
+<line x1="30" y1="349" x2="385" y2="349" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="365" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Number of elements</text>
+<text x="214.5" y="365" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">242</text>
+<line x1="30" y1="370" x2="385" y2="370" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="386" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Element type</text>
+<text x="214.5" y="386" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">C3D10</text>
+<line x1="30" y1="391" x2="385" y2="391" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="407" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Description</text>
+<text x="214.5" y="407" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">tetra10 – quadratic tetrahedron</text>
+<line x1="30" y1="412" x2="385" y2="412" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="428" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Element distribution</text>
+<text x="214.5" y="428" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">C3D10 × 242</text>
+<rect x="405" y="303" width="359" height="25" fill="#123D68" stroke="#123D68" stroke-width="1" rx="0"/>
+<text x="415" y="321" font-family="DejaVu Sans, Arial, sans-serif" font-size="8.36px" font-weight="700" text-anchor="start" fill="#FFFFFF">4. BOUNDARY CONDITIONS</text>
+<rect x="405" y="328" width="359" height="78" fill="#FFFFFF" stroke="#A9BBC8" stroke-width="1" rx="0"/>
+<rect x="405" y="328" width="359" height="24" fill="#EAF2F8" stroke="#A9BBC8" stroke-width="1" rx="0"/>
+<text x="410" y="344" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.46px" font-weight="700" text-anchor="start" fill="#1A2733">Type</text>
+<line x1="515" y1="328" x2="515" y2="406" stroke="#A9BBC8" stroke-width="1"/>
+<text x="520" y="344" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.46px" font-weight="700" text-anchor="start" fill="#1A2733">Name</text>
+<line x1="640" y1="328" x2="640" y2="406" stroke="#A9BBC8" stroke-width="1"/>
+<text x="645" y="344" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.46px" font-weight="700" text-anchor="start" fill="#1A2733">Reference</text>
+<text x="870" y="344" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.46px" font-weight="700" text-anchor="start" fill="#1A2733">Parameters</text>
+<text x="410" y="369" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.70px" font-weight="700" text-anchor="start" fill="#1A2733">Fixed support</text>
+<text x="520" y="369" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.70px" font-weight="400" text-anchor="start" fill="#1A2733">ConstraintFixed</text>
+<text x="645" y="369" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.70px" font-weight="400" text-anchor="start" fill="#1A2733">Cube:('Face1',)</text>
+<text x="870" y="369" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.70px" font-weight="400" text-anchor="start" fill="#1A2733">Ux = Uy = Uz = 0</text>
+<line x1="405" y1="379" x2="764" y2="379" stroke="#A9BBC8" stroke-width="1"/>
+<text x="410" y="396" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.70px" font-weight="700" text-anchor="start" fill="#1A2733">Force</text>
+<text x="520" y="396" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.70px" font-weight="400" text-anchor="start" fill="#1A2733">ConstraintForce</text>
+<text x="645" y="396" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.70px" font-weight="400" text-anchor="start" fill="#1A2733">Cube:('Face2',)</text>
+<text x="870" y="396" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.70px" font-weight="400" text-anchor="start" fill="#1A2733">force=9000000000.0 mm*kg/s^2</text>
+<rect x="30" y="474" width="734" height="25" fill="#123D68" stroke="#123D68" stroke-width="1" rx="0"/>
+<text x="40" y="492" font-family="DejaVu Sans, Arial, sans-serif" font-size="8.36px" font-weight="700" text-anchor="start" fill="#FFFFFF">5. MAIN RESULTS OF SELECTED CCX RESULT</text>
+<rect x="30" y="507" width="232" height="62" fill="#EEF5FA" stroke="#1F67A5" stroke-width="1" rx="4"/>
+<text x="39" y="524" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.70px" font-weight="700" text-anchor="start" fill="#64717B">MAX. VON MISES STRESS</text>
+<text x="39" y="559" font-family="DejaVu Sans, Arial, sans-serif" font-size="9.88px" font-weight="700" text-anchor="start" fill="#1F67A5">423.60 MPa</text>
+<rect x="281" y="507" width="232" height="62" fill="#EEF5FA" stroke="#1F67A5" stroke-width="1" rx="4"/>
+<text x="290" y="524" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.70px" font-weight="700" text-anchor="start" fill="#64717B">MAX. DEFORMATION / DISPLACEMENT</text>
+<text x="290" y="559" font-family="DejaVu Sans, Arial, sans-serif" font-size="9.88px" font-weight="700" text-anchor="start" fill="#1F67A5">87.94 mm</text>
+<rect x="532" y="507" width="232" height="62" fill="#EEF5FA" stroke="#1F67A5" stroke-width="1" rx="4"/>
+<text x="541" y="524" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.70px" font-weight="700" text-anchor="start" fill="#64717B">MAX. PRINCIPAL STRESS</text>
+<text x="541" y="559" font-family="DejaVu Sans, Arial, sans-serif" font-size="9.88px" font-weight="700" text-anchor="start" fill="#1F67A5">485.52 MPa</text>
+<rect x="30" y="583" width="734" height="115" fill="#FFFFFF" stroke="#A9BBC8" stroke-width="1" rx="0"/>
+<line x1="367.64" y1="583" x2="367.64" y2="698" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="599" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">von Mises – minimum / maximum</text>
+<text x="374.64" y="599" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">3.492 MPa / 423.599 MPa</text>
+<line x1="30" y1="606" x2="764" y2="606" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="622" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Displacement magnitude – minimum / maximum</text>
+<text x="374.64" y="622" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">0.00000 mm / 87.93699 mm</text>
+<line x1="30" y1="629" x2="764" y2="629" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="645" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Maximum principal stress – minimum / maximum</text>
+<text x="374.64" y="645" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">-180.076 MPa / 485.515 MPa</text>
+<line x1="30" y1="652" x2="764" y2="652" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="668" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Minimum principal stress – minimum / maximum</text>
+<text x="374.64" y="668" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">-485.698 MPa / 181.924 MPa</text>
+<line x1="30" y1="675" x2="764" y2="675" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="691" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Safety factor n = Re / σvM,max</text>
+<text x="374.64" y="691" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">cannot be determined</text>
+<rect x="30" y="724" width="734" height="25" fill="#123D68" stroke="#123D68" stroke-width="1" rx="0"/>
+<text x="40" y="742" font-family="DejaVu Sans, Arial, sans-serif" font-size="8.36px" font-weight="700" text-anchor="start" fill="#FFFFFF">6. CONCLUSION AND TECHNICAL ASSESSMENT</text>
+<rect x="30" y="749" width="734" height="176" fill="#F1F6FA" stroke="#1F67A5" stroke-width="1" rx="5"/>
+<text x="42" y="769" font-family="DejaVu Sans, Arial, sans-serif" font-size="7.98px" font-weight="700" text-anchor="start" fill="#1F67A5">CONCLUSION</text>
+<text x="42" y="792" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.78px" font-weight="400" text-anchor="start" fill="#1A2733">Stress: maximum von Mises stress = 423.60 MPa; maximum principal stress = 485.52 MPa.</text>
+<text x="42" y="804" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.78px" font-weight="400" text-anchor="start" fill="#1A2733">Yield strength Re is not available; automatic safety-factor calculation was not performed.</text>
+<text x="42" y="816" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.78px" font-weight="400" text-anchor="start" fill="#1A2733">Deformation: maximum displacement Umax = 87.937 mm.</text>
+<text x="42" y="828" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.78px" font-weight="400" text-anchor="start" fill="#1A2733">Allowable displacement Uallow is not defined in the report configuration.</text>
+<text x="42" y="840" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.78px" font-weight="400" text-anchor="start" fill="#1A2733">Mesh: 569 FEM/result nodes; 242 elements; C3D10.</text>
+<text x="42" y="852" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.78px" font-weight="400" text-anchor="start" fill="#1A2733">Model validity: local maxima at supports, sharp edges or point load applications may be singularities and</text>
+<text x="42" y="864" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.78px" font-weight="400" text-anchor="start" fill="#1A2733">require separate engineering verification.</text>
+<rect x="30" y="938" width="734" height="25" fill="#123D68" stroke="#123D68" stroke-width="1" rx="0"/>
+<text x="40" y="956" font-family="DejaVu Sans, Arial, sans-serif" font-size="8.36px" font-weight="700" text-anchor="start" fill="#FFFFFF">7. IDENTIFICATION AND TRACEABILITY</text>
+<rect x="30" y="963" width="734" height="100" fill="#FFFFFF" stroke="#A9BBC8" stroke-width="1" rx="0"/>
+<line x1="235.52" y1="963" x2="235.52" y2="1063" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="979" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">CCX Result object</text>
+<text x="242.52" y="979" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">CCX_Results003</text>
+<line x1="30" y1="983" x2="764" y2="983" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="999" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Internal Name</text>
+<text x="242.52" y="999" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">CCX_Results</text>
+<line x1="30" y1="1003" x2="764" y2="1003" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="1019" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Result Mesh</text>
+<text x="242.52" y="1019" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">CCX_Results_Mesh003</text>
+<line x1="30" y1="1023" x2="764" y2="1023" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="1039" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Object type</text>
+<text x="242.52" y="1039" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">Fem::FemResultObjectPython</text>
+<line x1="30" y1="1043" x2="764" y2="1043" stroke="#A9BBC8" stroke-width="1"/>
+<text x="37" y="1059" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="700" text-anchor="start" fill="#1A2733">Report generation date</text>
+<text x="242.52" y="1059" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.61px" font-weight="400" text-anchor="start" fill="#1A2733">02.10.2026 06:25</text>
+<line x1="30" y1="1070" x2="764" y2="1070" stroke="#123D68" stroke-width="1"/>
+<text x="35" y="1088" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.32px" font-weight="400" text-anchor="start" fill="#64717B">YOUR COMPANY</text>
+<text x="760" y="1088" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.32px" font-weight="400" text-anchor="end" fill="#64717B">Page 1 / 2</text>
+<text x="760" y="1104" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.94px" font-weight="400" text-anchor="end" fill="#64717B">FreeCAD FEM / CalculiX</text>
+</svg>
